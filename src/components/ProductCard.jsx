@@ -19,7 +19,7 @@ export default function ProductCard({
         alt={product.name}
       />
 
-      <div className="row">
+      <div className="product-action">
         {qty > 0 ? (
           <div className="quantity-control">
   <button onClick={() => onDec(product.name)}>

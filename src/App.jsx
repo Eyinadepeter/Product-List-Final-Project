@@ -78,7 +78,7 @@ export default function App() {
         >
           Frontend Mentor
         </a>
-        . Coded by <strong>Your Name</strong>.
+        . Coded by <strong>Eyinade Peter</strong>.
       </footer>
     </div>
   );
