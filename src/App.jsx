@@ -4,7 +4,7 @@ import ProductList from "./components/ProductList";
 import Cart from "./components/Cart";
 
 export default function App() {
-  const [cart, setCart] = useState([]);
+  const [cart, setCart] = useState([]); 
 
   const addToCart = (product) => {
     setCart((prev) => {
