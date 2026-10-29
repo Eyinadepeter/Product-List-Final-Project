@@ -11,7 +11,7 @@ Thanks for checking out this front-end coding chal  lenge.
 **To do this challenge, you need a good understanding of HTML, CSS and JavaScript.**
 
 ## The challenge   
-
+    
 Your challenge is to build out this product list project that includes a functional cart and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So, if you have something you'd like to practice, feel free to give it a go.
